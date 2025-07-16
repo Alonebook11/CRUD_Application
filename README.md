@@ -1,4 +1,5 @@
 CRUD Application 🔧
+
 A simple and lightweight CRUD (Create, Read, Update, Delete) web application built using HTML, CSS, and Vanilla JavaScript. This project demonstrates the core functionality of managing data directly in the browser without any backend or frameworks.
 
 ✨ Features
