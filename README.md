@@ -22,6 +22,7 @@ JavaScript (ES6) – Core logic and DOM manipulation
 
 📸 Demo
 👉 Live Demo: https://poetic-smakager-860bc6.netlify.app/
+
 📂 GitHub Repository: https://github.com/Alonebook11/CRUD_Application
 
 🚀 Getting Started
