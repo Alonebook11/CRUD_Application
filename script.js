@@ -67,7 +67,7 @@ document.querySelector("#student-form").addEventListener("submit", (e) => {
 //Edit Data
 
 document.querySelector("#student-list").addEventListener("click", (e) => {
-    targer = e.target;
+    target = e.target;
     if(target.classList.contains("edit")){
         SelectedRow = target.parentElement.parentElement;
         document.querySelector("#firstName").value = SelectedRow.children[0].textContent;
